@@ -8,12 +8,12 @@ This course is a "Level 1" course, meaning that it is here to help prepare you f
 
 |Status|File|Title|Video URL|
 | --- | --- | --- | --- |
-|:heavy_check_mark:||Introduction|[Link](https://bobtabor.com/)|
-|:heavy_check_mark:||How do I configure Git?|[Link](https://bobtabor.com/)|
-|:heavy_check_mark:||How do I setup my local directories?|[Link](https://bobtabor.com/)|
-|:heavy_check_mark:||How do I clone a repository from Github?|[Link](https://bobtabor.com/)|
-|:heavy_check_mark:||How do I change branches?|[Link](https://bobtabor.com/)|
-|:heavy_check_mark:||How do I chanch branches if I accidentally made an edit?|[Link](https://bobtabor.com/)|
+|:heavy_check_mark:|git-download-code.md|Introduction|[Link](https://bobtabor.com/)|
+|:heavy_check_mark:|git-configure.md|How do I configure Git?|[Link](https://bobtabor.com/)|
+|:heavy_check_mark:|git-setup-local-directories.md|How do I setup my local directories?|[Link](https://bobtabor.com/)|
+|:heavy_check_mark:|git-clone-repo.md|How do I clone a repository from Github?|[Link](https://bobtabor.com/)|
+|:heavy_check_mark:|git-change-branch.md|How do I change branches?|[Link](https://bobtabor.com/)|
+|:heavy_check_mark:|git-accidentally-change.md|How do I change branches if I accidentally made an edit?|[Link](https://bobtabor.com/)|
 
 
 :heavy_check_mark: - Complete
